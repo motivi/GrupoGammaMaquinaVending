@@ -1,0 +1,41 @@
+Una maquina de Vending es una máquina que dispensa comidas, bebidas, alcohol, cigarros,(…) después de que el consumidor inserte una tarjeta de crédito o dinero en la máquina.
+La primera máquina moderna que funcionaba con monedas fue introducida en Londres a principios de los 1880, dispensando cartas postales. La máquina fue inventada por Percival Everett en 1883 y pronto se empezó a usar en oficinas de correos , dispensando sellos, sobres y papel. 
+La Sweetmeat Automatic Delivery Company fue fundada en 1887 en Inglaterra como primera compañía que instalaba y mantenía máquinas de vending. La primera máquina de vending en los Estados Unidos fue construida en 1888 por Thomas Adams Gum Company, vendiendo chicles en la estación de tren de Nueva York. La idea de añadir juegos a estas máquinas como una incentiva mayor para comprar fue añadida en 1897 por Culver Manufacturing Company, que añadió pequeñas figuras, que se empezarían a mover cuando alguien comprase algún chicle de sus maquinas . Está idea comenzó un nuevo mundo de dispositivos , conocidos como “trade stimulators”(estimuladores de la compra)
+
+Después de pagar, un producto puede conseguirse mediante:- La máquina lo tira, y cae en un compartimento en el suelo.
+La apertura de una puerta.
+Algunos productos necesitan ser preparados para poderse comprar. Por ejemplo, los tickets son magnetizados o impresos en el sitio; así como se prepara el café.
+Una de las formas más comunes de “vending machine”, la máquina de snacks, normalmente usa un muelle de acero que, cuando se compra algo, tira el producto. El ejemplo principal de una máquina de vending dando acceso a todo lo que se puede comprar es una máquina de vender periódicos (también llamada vending box) , que se encuentra principalmente en Estados Unidos y Canadá.Contiene una pila de periódicos idénticos. Después de la venta, la puerta vuelve automáticamente a una posición de cerrado.
+Nuestra máquina de vending se centrará en la venta de material de oficina.
+La idea es facilitar el acceso a este material a estudiantes y trabajadores sin tener que desplazarse hasta una papelería.
+
+La máquina constará de :
+-Un panel que funcionará por selección numérica.
+-Aceptará monedas y billetes de entre 5 y 20 euros.
+-Contará con la parte de abajo acolchada, para evitar los daños en el producto.
+
+Productos que se dispensarán:
+-Lápices.
+-Bolígrafos.
+-Clips.
+-Rotuladores.
+-Post-it.
+-Subrayadores.
+-Gomas de borrar.
+-Recambios ( minas, tinta).
+-Pen-drives(4,8 y 16 gb)
+-Reglas.
+-Compases.
+-Dvd’s.
+-Calculadoras.
+-Ratones de pc pequeños, con cable retráctil.
+
+Funcionamiento de la máquina:
+-Para comenzar, los elementos más susceptibles a daños serán situados en la parte inferior de la máquina, para que no se produzcan posibles roturas.
+-La dispensación de los ítems será mediante muelle de acero.
+-Se hará un informe de los elementos que se quedan más rápido sin stock, para reponerlos más rápido y venderlos en mayor frecuencia.
+
+Medidas de la máquina:
+- 1’90 x 1’20 x 0,90.
+
+

@@ -1,0 +1,79 @@
+A continuación se listan una serie de cuestiones que, creemos, sería importante abordar para completar el proyecto (no todas las respuestas tienen por qué estar incluidas en la descripción inicial):
+
+1. ¿Implementaríais una interfaz gráfica de usuario?
+
+	Si, donde se le indicará al cliente el importe del producto y la acción para proceder.
+
+2. ¿Se devolverá alguna información al usuario al utilizar la máquina o únicamente se le permitirá introducir datos? En caso de que se devuelva, ¿Cómo se podrá obtener información acerca de los productos (aparte de utilizando una GUI)?
+	
+	Se le devolverá información relativa al nombre y precio del producto.
+	Sólo de manera visual a través del cristal.		
+
+2. ¿Qué mecanismo de compra emplearíais? ¿Cuáles son los pasos concretos para solicitar un producto y pagarlo?
+	
+	El mecanismo de compra será mediante un muelle de acero que expulsará el producto hasta la bandeja de recogida.
+	Pasos:
+		1)Se elegirá el producto y según el importe de este se introducirá la cantidad de dinero necesaria.
+		2)Si la cantidad de dinero es correcta dispensará el producto, si la cantidad de dinero es inferior se 		mostrará por pantalla la cantidad restante necesaria y si es superior se dispensará el producto y el 		dinero sobrante. 
+
+3. ¿Será posible recuperar el dinero una vez introducido por el usuario y antes de entregar el producto? Si un usuario esta haciendo una compra y ocurre un error, ¿qué hace la máquina? ¿Y si se produce otro error?
+	
+	-Si, habrá algun botón que devuelva el importe y que permitirá cambiar de producto en caso de equivocación.
+	-Ese producto quedará momentaneamente bloqueado hasta que un técnico lo solucione y el cliente podrá recuperar 		su dinero o elegir un nuevo producto.		
+
+4. Cuando el producto se entrega dañado, ¿qué solución tenéis?
+	
+	Segun la construcción de nuestra máquina, la tasa de daños producidos sería tan inferior que en caso de algun 	daño, este seria propio del fabricante del producto.	
+
+5. Si cuando la máquina está en reposo (no está procesando un pedido) hay un fallo de software o hardware, ¿qué solución teneis?
+	
+	Si el fallo es detectado por la propia máquina se programará un reinicio y si este no se realiza correctamente 	quedará inutilizable mostrando un mensaje de error por pantalla hasta que un técnico solucione el problema.	
+
+6. ¿De qué forma puede un usuario saber si el dinero que ha introducido es suficiente?
+	
+	Se mostrará un mensaje por pantalla con la cantidad restante a introducir.	
+
+7. ¿Qué unidad de medida usais para el tamaño de la máquina? Sólamente se indican los valores (1'90 x 1'20 x 0'90).
+	
+	Como el sistema internacional de medida establece, METROS.
+
+8. ¿De que forma se establecerán los identificadores para cada producto? ¿Será una identificación estática o dinámica?
+		
+	Cada producto llevará indicado su referencia numérica correlativa.
+	Mediante identificación estática.
+
+9. ¿Guardará el sistema algún tipo de información acerca de cada producto (o cada identificador)? En caso de que lo haga, ¿se podrá configurar dicha información? ¿Mediante qué mecanismo o interfaz?
+	
+	Se guardará el precio y el nombre del producto y el número de veces que ha sido comprado el producto en un 	periodo de tiempo establecido.
+	El precio y el nombre serán configurables y se mostrarán por pantalla.	
+
+10. ¿Cómo repone el técnico los productos?
+	
+	Abriendo la máquina.	
+	
+11. ¿De qué manera podría un técnico acceder a los sistemas internos de la máquina en caso de producirse un mal funcionamiento?
+	
+	Al abrir la máquina, el técnico podrá modificar el software mediante una pantalla con una interfaz privada.  	
+	
+12. El informe de los elementos que se quedan rápido sin stock, ¿de qué forma se redacta y almacena? ¿Cómo se señaliza en caso de quedarse sin stock?
+	
+	Al quedarse sin stock de un producto, y ser seleccionado se mostrará un mensaje por pantalla indicando que no 	está disponible.
+	La máquina conocerá cuando el stock es cero ya que dispondrá de un número de elementos de cada producto en el 			momento de la reposición y este se irá restando cada vez que se adquiera uno.
+
+13. ¿Habrá alguna forma de comunicación con la empresa proveedora del servicio para automatizar procesos como reparaciones o reposiciones?
+	
+	Mediante un teléfono de contacto.	
+
+14. ¿De que manera se recogerá el cambio (dinero restante) y cómo se recogerán los productos solicitados (ranuras con puerta u otros métodos)?
+	
+	Se recogerá en una ranura para las monedas y otra para billetes.
+	EL producto se recogerá mediante una ranura con puerta.	
+	
+15. Hay una cantidad mayor de productos que pueden dañarse fácilmente (debido a la altura y la naturaleza de los productos) que los productos que se protegen (con el sistema propuesto), ¿pensais incluir alguna medida de seguridad adicional para los productos?
+	
+	Se pondrá un acolchamiento en el fondo y como medida de seguridad se procederá a colocar los productos más 	vulnerables en las posiciones más bajas.
+	
+16. Los productos que ofreceis no tienen, en muchos casos, tamaños similares, ¿cómo pensais organizarlos en el interior de la máquina para evitar la pérdida de espacio?
+	
+	Todos los objetos estarán en paquetes o bolsas transparentes de tamaño similar.
+	En el propio diseño de la máquina se tendrá en cuenta el tamaño de los distintos paquetes de items.
